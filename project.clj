@@ -70,6 +70,8 @@
             }
    }
 
+  :mirrors {"central" {:name "central"
+                       :url "http://uk.maven.org/maven2"}}
 
   :figwheel
   {:http-server-root "public"
